@@ -22,11 +22,11 @@ Extract the ZIP file and run ZillaOptimize.exe
 Select your desired mode and let Zilla Optimize handle the rest
 
 # ⚠ Disclaimer
-Use at your own risk
+Use at your own risk !!
 
 It’s recommended to create a System Restore Point before using
 
 This tool does not collect or store any user data
 
-🏆 Credits
+# 🏆Credits
 Developed by Zilla : https://www.youtube.com/@Zilla_Aimz
