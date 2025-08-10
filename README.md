@@ -14,7 +14,7 @@ Background Process Killer – Close unnecessary resource-hogging programs
 
 One-Click Optimize – Optimize everything with a single click
 
-#📥 Installation
+# 📥Installation
 Download the latest Zilla Optimize release
 
 Extract the ZIP file and run ZillaOptimize.exe
